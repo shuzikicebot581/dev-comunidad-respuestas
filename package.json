@@ -4,11 +4,11 @@
   "description": "Una plataforma para la comunidad de desarrolladores donde se pueden hacer preguntas y recibir respuestas de otros miembros.",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/server.js" // Inicia el servidor principal
+    "start": "node src/server.js" /* Inicia el servidor principal */
   },
   "dependencies": {
-    "express": "^4.17.1", // Framework web para Node.js
-    "mongoose": "^5.10.9" // ODM para MongoDB
+    "express": "^4.17.1" /* Framework web para Node.js */, 
+    "mongoose": "^5.10.9" /* ODM para MongoDB */
   },
   "author": "Tu Nombre",
   "license": "MIT"
