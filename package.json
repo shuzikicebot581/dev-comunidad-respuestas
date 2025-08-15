@@ -1,0 +1,13 @@
+{
+  "name": "dev-comunidad-respuestas",
+  "version": "1.0.0",
+  "description": "Una plataforma para la comunidad de desarrolladores donde se pueden hacer preguntas y recibir respuestas de otros miembros.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
